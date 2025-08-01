@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
