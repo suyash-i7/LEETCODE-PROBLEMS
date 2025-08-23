@@ -13,6 +13,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
+| [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
+| [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
+| [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
 ## Game Theory
 |  |
 | ------- |
