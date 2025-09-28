@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
+| [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
+| [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3748-sort-matrix-by-diagonals) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
