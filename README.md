@@ -55,6 +55,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3830-find-closest-person) |
 ## Counting Sort
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
