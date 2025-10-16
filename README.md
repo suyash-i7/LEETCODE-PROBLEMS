@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -34,6 +35,7 @@
 | [0075-sort-colors](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
