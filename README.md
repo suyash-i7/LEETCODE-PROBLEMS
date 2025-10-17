@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
