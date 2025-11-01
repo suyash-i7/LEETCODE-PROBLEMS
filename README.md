@@ -113,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0520-detect-capital) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
