@@ -22,6 +22,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -110,6 +111,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |
