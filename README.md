@@ -12,6 +12,7 @@
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
 ## Game Theory
@@ -109,6 +112,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
