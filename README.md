@@ -65,6 +65,7 @@
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
