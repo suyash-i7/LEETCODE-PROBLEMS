@@ -66,6 +66,7 @@
 | [0231-power-of-two](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
