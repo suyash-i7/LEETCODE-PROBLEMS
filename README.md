@@ -15,6 +15,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -69,6 +70,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
 |  |
 | ------- |
