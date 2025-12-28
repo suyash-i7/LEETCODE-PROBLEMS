@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3748-sort-matrix-by-diagonals) |
 ## Geometry
