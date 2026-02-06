@@ -25,6 +25,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3634-minimum-removals-to-balance-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3634-minimum-removals-to-balance-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
@@ -52,6 +53,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
+| [3634-minimum-removals-to-balance-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
 ## Greedy
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
