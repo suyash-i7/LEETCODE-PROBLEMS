@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [0830-largest-triangle-area](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3634-minimum-removals-to-balance-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
