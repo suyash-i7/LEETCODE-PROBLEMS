@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0263-ugly-number) |
@@ -103,6 +104,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3336-water-bottles-ii) |
@@ -114,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -142,6 +145,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0434-number-of-segments-in-a-string](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0520-detect-capital) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
