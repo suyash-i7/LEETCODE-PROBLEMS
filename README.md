@@ -28,6 +28,7 @@
 | [3321-type-of-triangle](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3634-minimum-removals-to-balance-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3778-transform-array-by-parity) |
@@ -112,6 +113,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0506-relative-ranks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
