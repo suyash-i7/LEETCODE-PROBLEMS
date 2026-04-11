@@ -40,6 +40,7 @@
 | [0189-rotate-array](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3884-first-matching-character-from-both-ends](https://github.com/suyash-i7/LEETCODE-PROBLEMS/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
 | ------- |
